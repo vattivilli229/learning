@@ -1,1 +1,2 @@
 # learning
+# added some info
